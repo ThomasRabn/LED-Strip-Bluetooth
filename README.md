@@ -1,4 +1,4 @@
-# LED-Strip-Bluetooth
+# LED Strip - Bluetooth Control
 
 ## The Project
 
